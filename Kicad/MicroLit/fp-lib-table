@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Microbit)(type KiCad)(uri "$(KIPRJMOD)/Microbit.pretty")(options "")(descr ""))
+  (lib (name USB-Vertical)(type KiCad)(uri "$(KIPRJMOD)/USB-Vertical.pretty")(options "")(descr ""))
+  (lib (name RQ3E080BN)(type KiCad)(uri "$(KIPRJMOD)/RQ3E080BN.pretty")(options "")(descr ""))
+  (lib (name TSM-102-01-T-SH)(type KiCad)(uri "$(KIPRJMOD)/TSM-102-01-T-SH.pretty")(options "")(descr ""))
+  (lib (name 74LVC1T45Z6-7)(type KiCad)(uri "$(KIPRJMOD)/74LVC1T45Z6-7.pretty")(options "")(descr ""))
+)
